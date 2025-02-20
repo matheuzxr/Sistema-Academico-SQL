@@ -12,9 +12,6 @@ INSERT INTO Cursos
 VALUES
     ('Engenharia de Produção', 3600, 10, 'presencial'),
 
---VISUALIZAÇÃO DA TABELA
-SELECT * FROM Cursos;
-
 --COMPLETANDO A TABELA
 INSERT INTO Cursos (nome, carga_horaria, qtd_semestres, modalidade)
 VALUES
